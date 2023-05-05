@@ -28,8 +28,8 @@ SECRET_KEY = 'django-insecure-9okgn1$ad9*0g15_oqm1!-sac##7j!ole#@wj#*vll5t5ama^x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['antoniokoala-shoesalon-8000.codio-box.uk']
-CSRF_TRUSTED_ORIGINS = ['https://antoniokoala-shoesalon-8000.codio-box.uk']
+ALLOWED_HOSTS = ['antoniokoala-shoesalon-8000.codio-box.uk', 'myecommerce-kvcn.onrender.com']
+CSRF_TRUSTED_ORIGINS = ['https://antoniokoala-shoesalon-8000.codio-box.uk', 'https://myecommerce-kvcn.onrender.com']
 
 
 # Application definition
